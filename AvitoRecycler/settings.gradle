@@ -1,0 +1,2 @@
+rootProject.name='AvitoRecycler'
+include ':app'
